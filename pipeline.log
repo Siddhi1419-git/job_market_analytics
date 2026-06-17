@@ -1,0 +1,2 @@
+2026-06-17 12:44:54,481 - INFO - Initiating authenticated API query for payload category: 'Developer'
+2026-06-17 12:44:58,752 - INFO - Pipeline executed successfully. Saved 20 clean JSON objects to data/raw/api_jobs_20260617_124458.json

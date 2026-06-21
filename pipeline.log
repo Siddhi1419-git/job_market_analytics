@@ -8,3 +8,5 @@
 2026-06-19 02:44:02,191 - INFO - Pipeline executed successfully. Saved 20 clean JSON objects to data/raw/api_jobs_20260619_024402.json
 2026-06-20 02:04:01,553 - INFO - Initiating authenticated API query for payload category: 'Developer'
 2026-06-20 02:04:06,294 - INFO - Pipeline executed successfully. Saved 20 clean JSON objects to data/raw/api_jobs_20260620_020406.json
+2026-06-21 02:16:12,044 - INFO - Initiating authenticated API query for payload category: 'Developer'
+2026-06-21 02:16:15,715 - INFO - Pipeline executed successfully. Saved 20 clean JSON objects to data/raw/api_jobs_20260621_021615.json

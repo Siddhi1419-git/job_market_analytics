@@ -33,3 +33,5 @@
 2026-07-02 02:00:07,322 - INFO - Initiating authenticated API query for payload category: 'Developer'
 2026-07-02 02:00:07,634 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Developer&content-type=application%2Fjson
 2026-07-02 02:00:10,292 - WARNING - Empty or malformed payload provided. Aborting transformation.
+2026-07-03 01:31:36,814 - INFO - Initiating authenticated API query for payload category: 'Developer'
+2026-07-03 01:31:39,632 - INFO - Pipeline executed successfully. Saved 20 clean JSON objects to data/raw/api_jobs_20260703_013139.json

@@ -898,3 +898,44 @@
 2026-07-25 01:23:46,969 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Engineer'
 2026-07-25 01:23:47,614 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Engineer', page=2
 2026-07-25 01:23:48,648 - INFO - Pipeline executed successfully. Saved 400 JSON objects to data/raw/api_jobs_20260725_012348.json
+2026-07-26 01:25:55,921 - INFO - Querying Adzuna API for country='in', page=1, keyword='Developer'
+2026-07-26 01:25:56,623 - INFO - Fetched and processed 20 records for country='in', keyword='Developer', page=1
+2026-07-26 01:25:58,130 - INFO - Querying Adzuna API for country='in', page=2, keyword='Developer'
+2026-07-26 01:25:58,710 - INFO - Fetched and processed 20 records for country='in', keyword='Developer', page=2
+2026-07-26 01:26:00,711 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Analyst'
+2026-07-26 01:26:01,303 - INFO - Fetched and processed 20 records for country='in', keyword='Data Analyst', page=1
+2026-07-26 01:26:02,906 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Analyst'
+2026-07-26 01:26:03,587 - INFO - Fetched and processed 20 records for country='in', keyword='Data Analyst', page=2
+2026-07-26 01:26:04,769 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Scientist'
+2026-07-26 01:26:05,406 - INFO - Fetched and processed 20 records for country='in', keyword='Data Scientist', page=1
+2026-07-26 01:26:06,582 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Scientist'
+2026-07-26 01:26:07,273 - INFO - Fetched and processed 20 records for country='in', keyword='Data Scientist', page=2
+2026-07-26 01:26:08,301 - INFO - Querying Adzuna API for country='in', page=1, keyword='Business Analyst'
+2026-07-26 01:26:08,945 - INFO - Fetched and processed 20 records for country='in', keyword='Business Analyst', page=1
+2026-07-26 01:26:09,954 - INFO - Querying Adzuna API for country='in', page=2, keyword='Business Analyst'
+2026-07-26 01:26:10,546 - INFO - Fetched and processed 20 records for country='in', keyword='Business Analyst', page=2
+2026-07-26 01:26:11,841 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Engineer'
+2026-07-26 01:26:12,519 - INFO - Fetched and processed 20 records for country='in', keyword='Data Engineer', page=1
+2026-07-26 01:26:13,532 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Engineer'
+2026-07-26 01:26:14,324 - INFO - Fetched and processed 20 records for country='in', keyword='Data Engineer', page=2
+2026-07-26 01:26:16,145 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Developer'
+2026-07-26 01:26:16,972 - INFO - Fetched and processed 20 records for country='gb', keyword='Developer', page=1
+2026-07-26 01:26:18,955 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Developer'
+2026-07-26 01:26:19,711 - INFO - Fetched and processed 20 records for country='gb', keyword='Developer', page=2
+2026-07-26 01:26:20,971 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Analyst'
+2026-07-26 01:26:21,493 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Analyst', page=1
+2026-07-26 01:26:22,748 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Analyst'
+2026-07-26 01:26:23,306 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Analyst', page=2
+2026-07-26 01:26:25,149 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Scientist'
+2026-07-26 01:26:25,910 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Scientist', page=1
+2026-07-26 01:26:27,822 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Scientist'
+2026-07-26 01:26:28,547 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Scientist', page=2
+2026-07-26 01:26:30,324 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Business Analyst'
+2026-07-26 01:26:31,017 - INFO - Fetched and processed 20 records for country='gb', keyword='Business Analyst', page=1
+2026-07-26 01:26:32,363 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Business Analyst'
+2026-07-26 01:26:33,112 - INFO - Fetched and processed 20 records for country='gb', keyword='Business Analyst', page=2
+2026-07-26 01:26:34,897 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Engineer'
+2026-07-26 01:26:35,595 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Engineer', page=1
+2026-07-26 01:26:36,783 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Engineer'
+2026-07-26 01:26:37,392 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Engineer', page=2
+2026-07-26 01:26:39,144 - INFO - Pipeline executed successfully. Saved 400 JSON objects to data/raw/api_jobs_20260726_012639.json

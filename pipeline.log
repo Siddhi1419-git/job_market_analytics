@@ -4014,3 +4014,44 @@
 2026-10-09 03:20:47,040 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Engineer'
 2026-10-09 03:20:47,624 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Engineer', page=2
 2026-10-09 03:20:49,353 - INFO - Pipeline executed successfully. Saved 400 JSON objects to data/raw/api_jobs_20261009_032049.json
+2026-10-10 03:00:07,305 - INFO - Querying Adzuna API for country='in', page=1, keyword='Developer'
+2026-10-10 03:00:07,574 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Developer&content-type=application%2Fjson
+2026-10-10 03:00:08,617 - INFO - Querying Adzuna API for country='in', page=2, keyword='Developer'
+2026-10-10 03:00:08,796 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Developer&content-type=application%2Fjson
+2026-10-10 03:00:10,554 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Analyst'
+2026-10-10 03:00:10,736 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Analyst&content-type=application%2Fjson
+2026-10-10 03:00:11,776 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Analyst'
+2026-10-10 03:00:14,915 - INFO - Fetched and processed 20 records for country='in', keyword='Data Analyst', page=2
+2026-10-10 03:00:16,452 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Scientist'
+2026-10-10 03:00:16,632 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Scientist&content-type=application%2Fjson
+2026-10-10 03:00:17,790 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Scientist'
+2026-10-10 03:00:17,965 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Scientist&content-type=application%2Fjson
+2026-10-10 03:00:19,005 - INFO - Querying Adzuna API for country='in', page=1, keyword='Business Analyst'
+2026-10-10 03:00:19,184 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/in/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Business+Analyst&content-type=application%2Fjson
+2026-10-10 03:00:20,595 - INFO - Querying Adzuna API for country='in', page=2, keyword='Business Analyst'
+2026-10-10 03:00:23,200 - INFO - Fetched and processed 20 records for country='in', keyword='Business Analyst', page=2
+2026-10-10 03:00:24,714 - INFO - Querying Adzuna API for country='in', page=1, keyword='Data Engineer'
+2026-10-10 03:00:27,203 - INFO - Fetched and processed 20 records for country='in', keyword='Data Engineer', page=1
+2026-10-10 03:00:28,954 - INFO - Querying Adzuna API for country='in', page=2, keyword='Data Engineer'
+2026-10-10 03:00:31,377 - INFO - Fetched and processed 20 records for country='in', keyword='Data Engineer', page=2
+2026-10-10 03:00:32,922 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Developer'
+2026-10-10 03:00:36,294 - INFO - Fetched and processed 20 records for country='gb', keyword='Developer', page=1
+2026-10-10 03:00:37,360 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Developer'
+2026-10-10 03:00:37,539 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Developer&content-type=application%2Fjson
+2026-10-10 03:00:38,832 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Analyst'
+2026-10-10 03:00:39,008 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Analyst&content-type=application%2Fjson
+2026-10-10 03:00:40,689 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Analyst'
+2026-10-10 03:00:40,866 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Analyst&content-type=application%2Fjson
+2026-10-10 03:00:42,778 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Scientist'
+2026-10-10 03:00:42,957 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/1?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Scientist&content-type=application%2Fjson
+2026-10-10 03:00:44,312 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Scientist'
+2026-10-10 03:00:47,739 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Scientist', page=2
+2026-10-10 03:00:49,470 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Business Analyst'
+2026-10-10 03:00:51,549 - INFO - Fetched and processed 20 records for country='gb', keyword='Business Analyst', page=1
+2026-10-10 03:00:53,215 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Business Analyst'
+2026-10-10 03:00:53,396 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Business+Analyst&content-type=application%2Fjson
+2026-10-10 03:00:54,752 - INFO - Querying Adzuna API for country='gb', page=1, keyword='Data Engineer'
+2026-10-10 03:00:57,227 - INFO - Fetched and processed 20 records for country='gb', keyword='Data Engineer', page=1
+2026-10-10 03:00:58,599 - INFO - Querying Adzuna API for country='gb', page=2, keyword='Data Engineer'
+2026-10-10 03:00:58,774 - ERROR - HTTP Connection Blocked: 503 Server Error: Service Temporarily Unavailable for url: https://api.adzuna.com/v1/api/jobs/gb/search/2?app_id=91538a0c&app_key=48ef784ab8511ecfc1ad8b771e41346b&results_per_page=20&what=Data+Engineer&content-type=application%2Fjson
+2026-10-10 03:01:00,499 - INFO - Pipeline executed successfully. Saved 160 JSON objects to data/raw/api_jobs_20261010_030100.json
